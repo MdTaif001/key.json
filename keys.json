@@ -1,6 +1,10 @@
 {
   "enabled": true,
   "keys": {
+    "20c2d725a48d3b1fba4782a36b158e732de6566ee31c8294e40327efccb3b5f5": {
+      "name": "Rahat",
+      "expires": "2026-11-16"
+    },
     "2dcbfe57b913d868c2512274f72dcac0846a1365487e6096906f08d014990308": {
       "name": "admin",
       "expires": ""
