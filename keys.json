@@ -1,6 +1,11 @@
 {
   "enabled": true,
   "keys": {
+    "f12fe536fee0482a98be236ec8770c5bcc352b5275cbb1a1aa154f25812b15bc": {
+      "name": "test",
+      "expires": "2026-11-16",
+      "speed": 50
+    },
     "17145eb729dfa7875526410a16eb1fa396acd65527effcabfa3b783104968ddc": {
       "name": "Unnamed",
       "expires": "2026-11-16",
